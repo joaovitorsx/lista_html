@@ -1,0 +1,15 @@
+body{
+    background-color: #bde0fe;
+}
+h1{
+    border: black 3px solid;
+}
+div{
+    background-color: blue;
+}
+.texto{
+    background-color: white;
+}
+#cabecalho{
+    background-color: aquamarine;
+}

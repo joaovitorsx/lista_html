@@ -1,0 +1,17 @@
+h1{
+    
+    border: rgb(255, 0, 21) 5px inset ;
+}
+body{
+    background-color: #003049;
+}
+
+.titulo{
+    color: rgb(228, 8, 248);
+    font-size: 20px;
+}
+#conteudo{
+    background-color: red;
+    width: 200px;
+    height: 150px;
+}
