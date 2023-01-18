@@ -1,0 +1,10 @@
+.TI107{
+    display: flex;
+    justify-content: center;
+}
+
+.TI107 div{
+    background-color: blue;
+    margin: 10px;
+    padding: 10px;
+}
