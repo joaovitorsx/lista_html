@@ -1,0 +1,26 @@
+h1{
+   display: flex;
+   justify-content: center; 
+   background-color: black;
+   color: white;
+   padding: 20px;
+}
+.VF{
+    
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+.vf2{
+    display: flex;
+    justify-content: center;
+    
+}
+.vf2 div{
+    background-color: blue;
+    margin: 10px;
+}
+.VF div{
+    background-color: blue;
+    margin: 5px;
+}
