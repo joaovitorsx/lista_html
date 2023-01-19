@@ -17,10 +17,13 @@ h1{
     
 }
 .vf2 div{
-    background-color: blue;
+    background-color: rgb(145, 145, 243);
     margin: 10px;
 }
 .VF div{
-    background-color: blue;
-    margin: 5px;
+    background-color: rgb(126, 126, 252);
+    margin: 10px;
+}
+body{
+    background-color: aqua;
 }
